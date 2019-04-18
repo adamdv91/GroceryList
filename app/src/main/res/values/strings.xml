@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="welcome_message">Welcome to Adams Grocery List</string>
+    <string name="password_creating_message">To start you are required to enter a four digit passcode</string>
+    <string name="submit">Submit</string>
+    <string name="passcode">PassCode</string>
+    <string name="enter_passcode_message">Please enter your passcode created</string>
+    <string name="pattern">0123|1234|2345|3456|4567|5678|6789|9876|8765|7654|6543|5432|4321|(0{4})|(1{4})|(2{4})|(3{4})|(4{4})|(5{4})|(6{4})|(7{4})|(8{4})|(9{4})</string>
+    <string name="my_grocery_lists">My Grocery Lists</string>
+    <string name="new_grocery_list">Add a new Grocery List</string>
+    <string name="new_list_header">New Grocery List Creating</string>
+    <string name="grocery_list_name">Grocery list Name</string>
+    <string name="submit_grocery">Submit My Grocery List</string>
+    <string name="error_message_no_text">Please enter a name before saving the list</string>
+    <string name="add_item_button_message">Add items to the grocery list</string>
+    <string name="add_items_message">Add items to the grocery list</string>
+    <string name="name_of_the_item">Items Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_item_message">Add item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="buy_item">Buy Item</string>
+    <string name="change_quantity">Change Quantity</string>
+    <string name="update_quantity_message">Update Quantity</string>
+    <string name="quality_placeholder">"Quantity: %d"</string>
+    <string name="insecure_passcode">PassCode is not secure enough, please create another</string>
+    <string name="finished_added_items">Finished added items</string>
+    <string name="incorrect_passcode_message">The PassCode entered is incorrect</string>
+</resources>

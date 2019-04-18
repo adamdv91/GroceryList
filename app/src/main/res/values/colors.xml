@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DB8EA</color>
+    <color name="colorPrimaryDark">#1992BA</color>
+    <color name="colorAccent">#FFC25A</color>
+
+    <color name="white">#FFF</color>
+
+    <color name="colorTextDark">#AAAAAA</color>
+
+    <color name="colorQuitDark">#e04e38</color>
+
+    <color name="colorFadeOut">#9e9e9e</color>
+
+
+    <color name="indicator_inactive">#AAAAAA</color>
+    <color name="indicator_active">#1DB8EA</color>
+</resources>
